@@ -53,6 +53,6 @@ class Sequence {
 		sum += this.input[i];
 	}
 	vag_value = sum / this.input.length;
-	return vag_value;
+	return vag_value.toFixed(2);
   }
 }
