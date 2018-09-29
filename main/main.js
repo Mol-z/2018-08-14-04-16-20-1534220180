@@ -26,7 +26,6 @@ class Sequence {
 	}
 	return min;
   }
-  }
 
   // Write your code here
   maxmum() {
